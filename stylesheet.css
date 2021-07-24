@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+
+}
+h1{
+    padding-top: 25px;
+}
+
+h2, h3, p{
+    padding-top: 10px;
+}
+
+h2{
+    
+    color: rgb(59, 59, 184);
+}
+
+hr{
+    background-color: dimgray;
+    height: 3px;
+}
+h3{
+    color: dimgray;
+}
+body{
+    font-family: Consolas;
+}
+
+div.perfil{
+    background-color: dodgerblue;
+    text-align: center;
+    
+}
+
+div.resumo{
+    background-color: gray;
+    text-align: center;
+}
+a.button{
+    color: white;
+    text-align: center;
+    border-radius: 3px;
+    text-decoration: none;
+}
